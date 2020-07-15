@@ -4,8 +4,10 @@ version = "0.1.0"
 authors = ["D'mitri Joseph <a.dmitrijoseph@gmail.com>"]
 license = "MIT"
 edition = "2018"
+description = "ezo_i2c_rs provides a simple interface to interact with Atlas Scientific Ezo Devices, using the I2C protocol."
+categories = ["embedded", "hardware-support"]
+keywords = ["hal", "embedded-hal-driver", "Atlas Scientific", "Ezo", "I2C"]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 thiserror = "1.0.20"
