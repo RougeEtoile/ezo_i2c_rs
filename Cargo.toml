@@ -6,7 +6,9 @@ license = "MIT"
 edition = "2018"
 description = "ezo_i2c_rs provides a simple interface to interact with Atlas Scientific Ezo Devices, using the I2C protocol."
 categories = ["embedded", "hardware-support"]
-keywords = ["hal", "embedded-hal-driver", "Atlas Scientific", "Ezo", "I2C"]
+keywords = ["hal", "embedded-hal-driver", "Atlas-Scientific", "Ezo", "I2C"]
+homepage = "https://github.com/dmitrijoseph/ezo_i2c_rs"
+repository = "https://github.com/dmitrijoseph/ezo_i2c_rs"
 
 
 [dependencies]
